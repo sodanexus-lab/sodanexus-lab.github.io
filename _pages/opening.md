@@ -2,7 +2,7 @@
 layout: page
 permalink: /openings/
 title: Openings
-description: 
+description: SODA Nexus
 nav: false
 nav_order: 6
 ---

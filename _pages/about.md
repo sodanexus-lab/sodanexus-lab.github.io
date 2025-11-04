@@ -1,13 +1,14 @@
 ---
 layout: about
 title: The Nexus
+description: SODA Nexus
 permalink: /
 # position: Assistant professor
 # subtitle: <a href='https://www.ualberta.ca/index.html'>University of Alberta</a>, Edmonton, Canada
 
 profile:
   align: left
-  image: logo3.png
+  image: logo.png
   image_circular: false # crops the image to make it circular
 #   address: >
 #     <p>555 your office number</p>

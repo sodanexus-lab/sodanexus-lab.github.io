@@ -2,7 +2,7 @@
 layout: page
 title: Members
 permalink: /projects/
-description: 
+description: SODA Nexus
 nav: true
 nav_order: 2
 display_categories: [faculty, nexus, alumni]

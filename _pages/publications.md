@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description: SODA Nexus
 nav: true
 nav_order: 3
 ---
