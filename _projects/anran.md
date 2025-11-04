@@ -4,7 +4,7 @@ title: An Ran Chen
 description: Lab Lead
 img: assets/img/anranchen.jpg
 importance: 1
-category: lab lead
+category: faculty
 bio: true
 ---
 

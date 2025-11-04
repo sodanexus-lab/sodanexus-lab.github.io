@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [lab lead, nexus, alumni]
+display_categories: [faculty, nexus, alumni]
 horizontal: true
 img: assets/img/group.jpg
 img2: assets/img/group2.jpg
