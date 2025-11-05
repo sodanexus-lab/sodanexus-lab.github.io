@@ -47,6 +47,6 @@ Our lab explores a broad range of research directions, including:
 
 **About the Lab**
 
-The SODA Lab is based at the University of Alberta in Edmonton, one of Canada’s most dynamic research and technology hubs. Our work is supported by university, provincial, federal, and industry funding. We are actively seeking motivated graduate students and exploring collaborative opportunities with both academic and industry partners.
+The SODA Nexus Lab is based at the University of Alberta in Edmonton, one of Canada’s most dynamic research and technology hubs. Our work is supported by university, provincial, federal, and industry funding. We are actively seeking motivated graduate students and exploring collaborative opportunities with both academic and industry partners.
 
 ---
